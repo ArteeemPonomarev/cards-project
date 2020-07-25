@@ -1,0 +1,13 @@
+.header {
+    height: 50px;
+    background: deepskyblue;
+    color: #ffffff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container {
+    width: 80%;
+}
+
